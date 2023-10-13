@@ -1,0 +1,10 @@
+debag: true
+
+connections:
+  postgres:
+    host: localhost
+    port: 5432
+    username: povidlo_rus
+    password: admin
+    schema: public
+    db: crm_db
